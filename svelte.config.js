@@ -1,9 +1,8 @@
-/** @type {import('@sveltejs/kit').Config} */
-const config = {
+// svelte.config.js
+import node from '@sveltejs/adapter-node';
+
+export default {
 	kit: {
-		// hydrate the <div id="svelte"> element in src/app.html
-		target: '#svelte'
+		adapter: node({ out: 'node-build' })
 	}
 };
-
-export default config;
