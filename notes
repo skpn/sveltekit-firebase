@@ -1,6 +1,3 @@
  - follow this tuto to setup secure ssh connections to the vps : https://www.hostinger.com/tutorials/getting-started-with-vps-hosting
- - find out why i can't ssh anymore
- - set up vscode ssh for hostinger
- - finish following that tuto to get nginx and pm2 running so the server is stable : https://www.freecodecamp.org/news/deploy-nodejs-app-server-to-production/
  - point hostinger domain to vps : https://www.hostinger.com/tutorials/dns/how-to-point-domain-to-vps
  - make firebase work
