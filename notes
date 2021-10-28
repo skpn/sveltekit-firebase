@@ -1,3 +1,4 @@
  - follow this tuto to setup secure ssh connections to the vps : https://www.hostinger.com/tutorials/getting-started-with-vps-hosting
  - point hostinger domain to vps : https://www.hostinger.com/tutorials/dns/how-to-point-domain-to-vps
+ - add ssl with this tuto : https://www.nginx.com/blog/using-free-ssltls-certificates-from-lets-encrypt-with-nginx/
  - make firebase work
